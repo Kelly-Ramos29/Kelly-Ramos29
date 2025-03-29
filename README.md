@@ -1,4 +1,4 @@
-### Olá! Eu sou a Kelly Ramos 👋
+### Olá! Eu sou a Kelly Ramos, atualmente cursando Desenvolvimento de Sistemas.👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellyramose/)
 
